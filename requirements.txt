@@ -1,0 +1,9 @@
+easydict
+numpy==1.20.3
+tqdm
+torchvision
+torch
+opencv-python
+Pillow
+tensorboardX
+deepface==0.0.75
